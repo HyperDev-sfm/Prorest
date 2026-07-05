@@ -1,6 +1,6 @@
 # Prorest
 
-# 🧠 Prorest
+# Prorest
 
 Prorest is a machine learning AI model currently being developed and trained by me (Prolest). It is built using :contentReference[oaicite:0]{index=0}, GigaLearn (GigaLearner-PPO), C++, and other supporting tools and systems.
 
@@ -8,7 +8,7 @@ The goal of Prorest is to learn Rocket League through reinforcement learning, im
 
 ---
 
-## 📥 How can I download Prorest?
+## How can I download Prorest?
 
 Prorest will not be publicly available.
 
@@ -18,7 +18,7 @@ Its final rank is currently unknown, as it is still actively training.
 
 ---
 
-## ⚔️ Can I request a 1v1 against Prorest?
+## Can I request a 1v1 against Prorest?
 
 Yes, but requirements apply depending on the version.
 
@@ -30,7 +30,7 @@ Availability depends on Prorest’s current training stage.
 
 ---
 
-## 📅 When will Prorest be released?
+## When will Prorest be released?
 
 There is currently no fixed release date.
 
@@ -38,6 +38,6 @@ Prorest is still in active development. Once it reaches a stable Champion-level 
 
 ---
 
-## 🎥 Progress Updates
+## Progress Updates
 
 Progress reports will be posted on my YouTube channel. Twitch may also be used for live 1v1 matches and testing sessions in the future.
