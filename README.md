@@ -1,6 +1,6 @@
 # Prorest
 
-Prorest is a machine learning AI model currently being developed and trained by me (Prolest). It is built using :contentReference[oaicite:0]{index=0}, GigaLearn (GigaLearner-PPO), C++, and other supporting tools and systems.
+Prorest is a machine learning AI model currently being developed and trained by me (Prolest). It is built using RLGym, GigaLearn (GigaLearner-PPO), C++, and other supporting tools and systems.
 
 The goal of Prorest is to learn Rocket League through reinforcement learning, improving over time using curriculum learning, self-play, and carefully designed reward functions.
 
